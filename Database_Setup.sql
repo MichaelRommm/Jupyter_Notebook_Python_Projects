@@ -1,3 +1,4 @@
+-- Advanced SQL Analysis Project: Michael Romm
 
 GO
 CREATE DATABASE Sales
