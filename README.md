@@ -1,6 +1,16 @@
-# portfolio
-Data Analytics Portfolio
+# Michael Romm - Data Analyst Portfolio
 
+## About
+
+Hi, I'm Michael! Passionate about leveraging data-driven insights for business growth, I'm currently honing my skills in data analytics. As a soon-to-be Data Analytics certificate holder, I'm eager to transition into a Data Analyst role, building upon my background in entrepreneurship.
+
+As Co-Founder & CEO of [Finger Food](https://www.fingerfood.ca/), I excelled in launching and managing businesses, specializing in catering and events. This experience equipped me with strong skills in operations management, business analytics, and digital marketing, where I employed data-driven decision-making to optimize processes and drive strategic growth initiatives.
+
+I'm excited to bring this diverse skill set to a data-centric role, where I can drive innovation and contribute to organizational success.
+
+My CV in [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf).
+
+This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 
 ## Portfolio Projects
