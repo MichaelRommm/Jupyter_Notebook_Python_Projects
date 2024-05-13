@@ -8,7 +8,7 @@ As Co-Founder & CEO of [Finger Food](https://www.fingerfood.ca/), I excelled in 
 
 I'm excited to bring this diverse skill set to a data-centric role, where I can drive innovation and contribute to organizational success.
 
-My CV in [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf).
+My CV in (work in progress).
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
