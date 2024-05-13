@@ -9,7 +9,7 @@ This portfolio showcases my progress in data analytics and features projects tha
 ## Portfolio Projects
 
 ### 1 | Sales Database Setup
-**Code:** [Create Database & Table information](Project1_MichaelRomm.sql)
+**Code:** [Database_Setup](Database_Setup.sql)
 
 **Goal:** Efficient sales data management through SQL database setup.
 
@@ -22,7 +22,7 @@ This portfolio showcases my progress in data analytics and features projects tha
 **Results:** Successfully sets up database schema and tables, ensuring scalability, performance, and data integrity for sales data handling.
 
 ### 2 | Advanced SQL Analysis
-**Code:** [Project2_MichaelRomm.sql](Project2_MichaelRomm.sql)
+**Code:** [Advanced_SQL](Advanced_SQL.sql)
 
 **Goal:** Comprehensive analysis of sales, customers, employees, and orders in AdventureWorks2019.
 
