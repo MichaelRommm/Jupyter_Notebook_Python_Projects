@@ -45,4 +45,3 @@ This portfolio showcases my progress in data analytics and features projects tha
 - GitHub: [michaelromm](https://github.com/michaelromm)
 - Email: mih.kuf@gmail.com
 
-Feel free to adjust as needed, and let me know if there's anything else you'd like to add or modify!
