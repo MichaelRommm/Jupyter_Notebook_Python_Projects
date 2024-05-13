@@ -2,38 +2,47 @@
 
 ## About
 
-Hi, I'm Michael! Passionate about leveraging data-driven insights for business growth, I'm currently honing my skills in data analytics. As a soon-to-be Data Analytics certificate holder, I'm eager to transition into a Data Analyst role, building upon my background in entrepreneurship.
+Hi, I'm Michael! With a background in entrepreneurship and a passion for data-driven decision-making, I'm on a journey to transition into a Data Analyst role. As the former Co-Founder & CEO of [Finger Food], I've honed my skills in operations management, business analytics, and digital marketing, leveraging data to drive strategic growth initiatives.
 
-As Co-Founder & CEO of [Finger Food](https://www.fingerfood.ca/), I excelled in launching and managing businesses, specializing in catering and events. This experience equipped me with strong skills in operations management, business analytics, and digital marketing, where I employed data-driven decision-making to optimize processes and drive strategic growth initiatives.
-
-I'm excited to bring this diverse skill set to a data-centric role, where I can drive innovation and contribute to organizational success.
-
-My CV in (work in progress).
-
-This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
-
+This portfolio showcases my progress in data analytics and features projects that demonstrate my proficiency in SQL and data analysis.
 
 ## Portfolio Projects
-In this section, I will list data analytics projects, briefly describing the technology stack used to solve cases.
 
-### Create Database & Table Information
+### 1 | Sales Database Setup
 **Code:** [Create Database & Table information](Project1_MichaelRomm.sql)
 
-**Goal:** Setting up a SQL database for managing sales data efficiently.
+**Goal:** Efficient sales data management through SQL database setup.
 
-**Description:** This project involves creating a SQL database named "Sales" and defining multiple tables to store sales-related information. The schema is based on AdventureWorks2017, with adjustments and additional constraints applied. Each table, such as SalesTerritory, CreditCard, Address, ShipMethod, CurrencyRate, SpecialOfferProduct, Customer, SalesPerson, SalesOrderHeader, and SalesOrderDetail, is designed to capture specific aspects of sales transactions, customer details, and product information. Constraints, both at the column and table levels, ensure data integrity and consistency. The order of commands for table creation and data insertion is meticulously arranged to handle foreign key dependencies and maintain referential integrity.
+**Description:** This project establishes the "Sales" SQL database tailored for managing sales data effectively. It employs AdventureWorks2017 schema with optimized table design and stringent constraints for data integrity.
 
-**Skills:** SQL database design, schema creation, data modeling, constraint management, data insertion.
+**Skills:** SQL database design, schema creation, constraint management.
 
 **Technology:** SQL Server.
 
-**Results:** The database schema and tables are created successfully, providing a robust foundation for managing sales data effectively. The project demonstrates proficiency in SQL database design and management, ensuring scalability, performance, and data integrity in handling sales-related information.
+**Results:** Successfully sets up database schema and tables, ensuring scalability, performance, and data integrity for sales data handling.
 
+### 2 | Advanced SQL Analysis
+**Code:** [Project2_MichaelRomm.sql](Project2_MichaelRomm.sql)
+
+**Goal:** Comprehensive analysis of sales, customers, employees, and orders in AdventureWorks2019.
+
+**Description:** This SQL project employs advanced techniques including joins, CTEs, and window functions for in-depth analysis of sales-related data. The queries provide valuable insights into various aspects of the database, contributing to informed decision-making.
+
+**Skills:** Advanced SQL query composition and optimization, data analysis, understanding complex database schemas.
+
+**Technology:** SQL Server.
+
+**Queries:** Includes a diverse set of queries covering product analysis, customer behavior, employee metrics, and sales trends.
+
+**Results:** The project demonstrates mastery in leveraging SQL advanced features to perform intricate data analysis tasks, providing actionable insights for strategic decision-making.
 
 ## Education and Certificates
-- Google Data Analytics Professional Certificate (June 2024) (Coursera - Google)
-- Data Analyst Expert Certificate (july 2022) (John Bryce College, Tel-Aviv)
+- Google Data Analytics Professional Certificate (Coursera - Google) - June 2024
+- Data Analyst Expert Certificate (John Bryce College, Tel-Aviv) - July 2022
 
 ## Contacts
 - LinkedIn: [Michael Romm](https://www.linkedin.com/in/michael-romm/)
+- GitHub: [michaelromm](https://github.com/michaelromm)
 - Email: mih.kuf@gmail.com
+
+Feel free to adjust as needed, and let me know if there's anything else you'd like to add or modify!
