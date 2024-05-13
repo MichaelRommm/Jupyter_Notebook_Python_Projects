@@ -35,5 +35,5 @@ In this section, I will list data analytics projects, briefly describing the tec
 - Data Analyst Expert Certificate (july 2022) (John Bryce College, Tel-Aviv)
 
 ## Contacts
-- LinkedIn: [@michael-romm](https://www.linkedin.com/in/michael-romm/)
+- LinkedIn: [Michael Romm](https://www.linkedin.com/in/michael-romm/)
 - Email: mih.kuf@gmail.com
