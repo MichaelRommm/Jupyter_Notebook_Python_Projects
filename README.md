@@ -28,3 +28,12 @@ In this section, I will list data analytics projects, briefly describing the tec
 **Technology:** SQL Server.
 
 **Results:** The database schema and tables are created successfully, providing a robust foundation for managing sales data effectively. The project demonstrates proficiency in SQL database design and management, ensuring scalability, performance, and data integrity in handling sales-related information.
+
+
+## Education and Certificates
+- Google Data Analytics Professional Certificate (June 2024) (Coursera - Google)
+- Data Analyst Expert Certificate (july 2022) (John Bryce College, Tel-Aviv)
+
+## Contacts
+- LinkedIn: [@michael-romm](https://www.linkedin.com/in/michael-romm/)
+- Email: mih.kuf@gmail.com
