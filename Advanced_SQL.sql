@@ -1,10 +1,10 @@
---Project 2: Michael Romm
+-- Advanced SQL Analysis Project: Michael Romm
 
 GO
 USE AdventureWorks2019
 GO
 
----Question 1:
+--- Write a SQL query that retrieves the ProductID, Name, Color, ListPrice, and Size of products that are not included in any sales orders:
 
 SELECT 
 	p.ProductID,
@@ -20,7 +20,7 @@ WHERE p.ProductID NOT IN
 		 JOIN Production.Product as pp ON pp.ProductID=sof.ProductID)
 ORDER BY p.ProductID;
 
----Question 2:
+--- Construct a SQL query to fetch the CustomerID, Last Name, and First Name of customers who have not placed any sales orders:
 
 SELECT 
 	s.CustomerID,
@@ -33,7 +33,7 @@ WHERE s.CustomerID NOT IN
 		FROM Sales.SalesOrderHeader as ss)
 ORDER BY s.CustomerID;
 
----Question 3:
+--- Develop an SQL query to find the top 10 customers based on the count of their orders, along with their first and last names:
 
 WITH CustomerTopOrder AS 
 (
@@ -52,7 +52,7 @@ ORDER BY CountOfOrders DESC
 SELECT CustomerID,FirstName,LastName,CountOfOrders
 FROM CustomerTopOrder;
 
----Question 4:
+--- Create a SQL query to display the first name, last name, job title, hire date, and the count of employees sharing the same job title:
 
 SELECT 
     p.FirstName, 
@@ -63,7 +63,7 @@ SELECT
 FROM Person.Person as p 
 JOIN HumanResources.Employee as e ON p.BusinessEntityID = e.BusinessEntityID;
 
----Question 5:
+--- Write an SQL query to retrieve the SalesOrderID, CustomerID, Last Name, First Name, OrderDate, and the date of the previous order for each customer:
 
 WITH OrderDateRank AS 
 (
@@ -90,7 +90,7 @@ SELECT
 FROM OrderDateRank
 WHERE RN=1;
 
----Question 6:
+--- Formulate a SQL query to find the year, SalesOrderID, last name, first name, and total sales amount for the year with the highest total sales:
 
 WITH OrderSumRN AS 
 (
@@ -116,7 +116,7 @@ JOIN Sales.Customer as c ON soh.CustomerID = c.CustomerID
 JOIN Person.Person as p ON c.PersonID = p.BusinessEntityID
 WHERE RN = 1;
 
---Question 7:
+--- Create a SQL query to pivot the count of orders per month for each year from 2011 to 2014:
 
 SELECT 
 	Month,
@@ -134,7 +134,7 @@ FROM
 PIVOT (SUM(OrdersPerYear) FOR Year IN ([2011], [2012], [2013], [2014])) as pivottbl
 ORDER BY Month;
 
----Question 8:
+--- Develop a SQL query to calculate the total and cumulative sum of sales prices per year and month, including a grand total:
 
 WITH 
 SumPerYearMonth AS 
@@ -190,7 +190,7 @@ SELECT
 FROM final_tbl
 ORDER BY YY, RN;
 
----Question 9:
+--- Construct an SQL query to retrieve the department name, employee ID, full name, hire date, seniority, previous employee name, previous employee hire date, and the difference in days between successive hires within the same department:
 
 WITH EmpDateRow AS
 (
@@ -220,7 +220,7 @@ SELECT
 FROM EmpDateRow
 ORDER BY DepartmentName, row;
 
----Question 10:
+--- Write a SQL query to fetch the hire date, department ID, and a concatenated list of business entity IDs and full names for employees currently active in each department, grouped by hire date and department ID:
 
 WITH emp1 AS
 (
