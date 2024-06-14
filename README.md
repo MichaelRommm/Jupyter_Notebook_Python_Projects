@@ -20,6 +20,7 @@ This portfolio showcases my progress in data analytics and features projects tha
 **Technology:** SQL Server.
 
 **Results:** Successfully sets up database schema and tables, ensuring scalability, performance, and data integrity for sales data handling.
+![Sales_Database_Diagram](https://github.com/MichaelRommm/portfolio/assets/165962651/d26e313b-cc80-4460-b68b-92ab7b33be71)
 
 ### 2 | Advanced SQL Analysis
 **Code:** [Advanced_SQL](Advanced_SQL.sql)
