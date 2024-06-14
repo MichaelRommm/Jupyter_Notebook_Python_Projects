@@ -19,9 +19,9 @@ This portfolio showcases my progress in data analytics and features projects tha
 
 **Technology:** SQL Server.
 
-**Results:** Successfully sets up database schema and tables, ensuring scalability, performance, and data integrity for sales data handling.
+**Results:** [Sales_Database_Diagram](images/Sales_Database_Diagram.jpg)
+Successfully sets up database schema and tables, ensuring scalability, performance, and data integrity for sales data handling.
 
-![Sales_Database_Diagram](images/Sales_Database_Diagram.jpg)
 
 ### 2 | Advanced SQL Analysis
 **Code:** [Advanced_SQL](Advanced_SQL.sql)
