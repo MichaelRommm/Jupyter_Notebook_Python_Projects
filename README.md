@@ -36,7 +36,8 @@ Successfully sets up database schema and tables, ensuring scalability, performan
 
 **Queries:** Includes a diverse set of queries covering product analysis, customer behavior, employee metrics, and sales trends.
 
-**Results:** The project demonstrates mastery in leveraging SQL advanced features to perform intricate data analysis tasks, providing actionable insights for strategic decision-making.
+**Results:** **Results:** [Output_Query_Results](SQL/output_images/Advanced_SQL)\
+The project demonstrates mastery in leveraging SQL advanced features to perform intricate data analysis tasks, providing actionable insights for strategic decision-making.
 
 ## Education and Certificates
 - Google Data Analytics Professional Certificate (Coursera - Google) - June 2024
