@@ -1,9 +1,11 @@
 -- Sales SQL Database Setup Project: Michael Romm
 
 GO
-CREATE DATABASE Sales
+	USE MASTER
 GO
-USE Sales
+	CREATE DATABASE Sales
+GO
+	USE Sales
 GO 
 CREATE TABLE SalesTerritory	
 	(
@@ -211,5 +213,8 @@ SELECT * FROM AdventureWorks2017.Sales.SalesOrderHeader;
 GO
 INSERT INTO SalesOrderDetail
 SELECT * FROM AdventureWorks2017.Sales.SalesOrderDetail;
+
+
+
 
 
