@@ -20,7 +20,7 @@ WHERE p.ProductID NOT IN
 		 JOIN Production.Product as pp ON pp.ProductID=sof.ProductID)
 ORDER BY p.ProductID;
 
-[q1](images/q1.jpg)\
+(https://github.com/MichaelRommm/portfolio/blob/main/images/q1.jpg)
 
 --- Construct a SQL query to fetch the CustomerID, Last Name, and First Name of customers who have not placed any sales orders:
 
