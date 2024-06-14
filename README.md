@@ -23,9 +23,9 @@ This portfolio showcases my progress in data analytics and features projects tha
 
 ![Sales_Database_Diagram](https://github.com/MichaelRommm/portfolio/assets/165962651/d26e313b-cc80-4460-b68b-92ab7b33be71)
 
-images/Sales_Database_Diagram.jpg
+![Sales_Database_Diagram](images/Sales_Database_Diagram.jpg)
 
-Sales_Database_Diagram.jpg
+![Sales_Database_Diagram](Sales_Database_Diagram.jpg)
 
 
 ### 2 | Advanced SQL Analysis
