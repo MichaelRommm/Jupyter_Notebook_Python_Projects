@@ -9,7 +9,7 @@ This portfolio showcases my progress in data analytics and features projects tha
 ## Portfolio Projects
 
 ### 1 | Sales Database Setup
-**Code:** [Database_Setup](Database_Setup.sql)
+**Code:** [Database_Setup](SQL/Database_Setup.sql)
 
 **Goal:** Efficient sales data management through SQL database setup.
 
@@ -19,12 +19,12 @@ This portfolio showcases my progress in data analytics and features projects tha
 
 **Technology:** SQL Server.
 
-**Results:** [Sales_Database_Diagram](images/Sales_Database_Diagram.jpg)\
+**Results:** [Sales_Database_Diagram](SQL/output_images/Database_Setup/Sales_Database_Diagram.jpg)\
 Successfully sets up database schema and tables, ensuring scalability, performance, and data integrity for sales data handling.
 
 
 ### 2 | Advanced SQL Analysis
-**Code:** [Advanced_SQL](Advanced_SQL.sql)
+**Code:** [Advanced_SQL](SQL/Advanced_SQL.sql)
 
 **Goal:** Comprehensive analysis of sales, customers, employees, and orders in AdventureWorks2019.
 
