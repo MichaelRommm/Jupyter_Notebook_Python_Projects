@@ -36,8 +36,33 @@ Successfully sets up database schema and tables, ensuring scalability, performan
 
 **Queries:** Includes a diverse set of queries covering product analysis, customer behavior, employee metrics, and sales trends. 10 questions to analyze and understand a database.
 
-**Results:** **Results:** [Output_Query_Results](SQL/output_images/Advanced_SQL)\
+**Results:** [Output_Query_Results](SQL/output_images/Advanced_SQL)\
 The project demonstrates mastery in leveraging SQL advanced features to perform intricate data analysis tasks, providing actionable insights for strategic decision-making.
+
+### 3 | Python Analysis Project
+
+**Code:** [Flight_Data_Analysis](Python/work_in_progress..)
+
+**Goal:** Analyze flight data to understand patterns, delays, and country-specific flight statuses.
+
+**Description:** This project uses Python (pandas, seaborn, matplotlib) to analyze flight data, providing insights into flight statuses, delays, and flight distributions across countries.
+
+**Skills:** Data analysis, data visualization, pandas, seaborn, matplotlib.
+
+**Technology:** Python, pandas, seaborn, matplotlib.
+
+**Visualizations:**
+1. **Flight Status by Country**: Stacked bar chart of flight statuses per country.
+2. **Flight Count by Country**: Bar chart of total flights per country.
+3. **Average Delay by Country**: Bar chart of average flight delays by country.
+4. **Flight Count by Airline**: Bar chart of flights per airline.
+5. **Delays by Hour**: Bar chart of total delays by hour.
+
+**Usage:**
+1. Install required libraries:
+   ```bash
+   pip install pandas seaborn matplotlib
+
 
 ## Education and Certificates
 - Google Data Analytics Professional Certificate (Coursera - Google) - June 2024
