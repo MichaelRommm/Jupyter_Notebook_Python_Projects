@@ -1,7 +1,7 @@
 ## Portfolio Projects
 
 ### 1 | Sales Database Setup
-**Code:** [Database_Setup](SQL/Database_Setup.sql)
+**Code:** [Database_Setup](https://github.com/MichaelRommm/DATA_ANALYST_PORTFOLIO/blob/fbaa946b7a9bba82bb1c47f57bbca40c7d5e4af3/SQL/Database_Setup.sql)
 
 **Goal:** Efficient sales data management through SQL database setup.
 
@@ -11,12 +11,12 @@
 
 **Technology:** SQL Server.
 
-**Results:** [Sales_Database_Diagram](SQL/output_images/Database_Setup/Sales_Database_Diagram.jpg)\
+**Results:** [Sales_Database_Diagram](https://github.com/MichaelRommm/DATA_ANALYST_PORTFOLIO/blob/fbaa946b7a9bba82bb1c47f57bbca40c7d5e4af3/SQL/output_images/Database_Setup/Sales_Database_Diagram.jpg)
 Successfully sets up database schema and tables, ensuring scalability, performance, and data integrity for sales data handling.
 
 
 ### 2 | Advanced SQL Analysis
-**Code:** [Advanced_SQL](SQL/Advanced_SQL.sql)
+**Code:** [Advanced_SQL](https://github.com/MichaelRommm/DATA_ANALYST_PORTFOLIO/blob/fbaa946b7a9bba82bb1c47f57bbca40c7d5e4af3/SQL/Advanced_SQL.sql)
 
 **Goal:** Comprehensive analysis of sales, customers, employees, and orders in AdventureWorks2019.
 
@@ -28,5 +28,5 @@ Successfully sets up database schema and tables, ensuring scalability, performan
 
 **Queries:** Includes a diverse set of queries covering product analysis, customer behavior, employee metrics, and sales trends. 10 questions to analyze and understand a database.
 
-**Results:** [Output_Query_Results](SQL/output_images/Advanced_SQL)\
-The project demonstrates mastery in leveraging SQL advanced features to perform intricate data analysis tasks, providing actionable insights for strategic decision-making.work in progress..
+**Results:** [Output_Query_Results](https://github.com/MichaelRommm/DATA_ANALYST_PORTFOLIO/tree/fbaa946b7a9bba82bb1c47f57bbca40c7d5e4af3/SQL/output_images/Advanced_SQL)
+The project demonstrates mastery in leveraging SQL advanced features to perform intricate data analysis tasks, providing actionable insights for strategic decision-making.
