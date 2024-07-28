@@ -2,9 +2,9 @@
 
 ## About
 
-Hi, I'm Michael! With a background in entrepreneurship and a passion for data-driven decision-making, I'm on a journey to transition into a Data Analyst role. As the former Co-Founder & CEO of [Finger Food](https://finger-food.co.il), I've honed my skills in operations management, business analytics, and digital marketing, leveraging data to drive strategic growth initiatives.
+Hi, I'm Michael! I am a Data Analyst with a keen eye for detail and strong analytical skills. With a background in entrepreneurship and a passion for data-driven decision-making, I am proficient in SQL, Python, R, Excel, Power BI and Tableau.
 
-This portfolio showcases my progress in data analytics and features projects that demonstrate my proficiency in SQL and data analysis.
+As the former Co-Founder & CEO of [Finger Food](https://finger-food.co.il), I have honed my skills in operations management, business analytics, and digital marketing, leveraging data to drive strategic growth initiatives. This portfolio showcases my progress in data analytics and features projects that demonstrate my proficiency in data analysis, visualization, and business analytics.
 
 ## Portfolio Projects
 
