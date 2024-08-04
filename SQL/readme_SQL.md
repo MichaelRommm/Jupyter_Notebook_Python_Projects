@@ -1,4 +1,4 @@
-## Portfolio Projects
+## Portfolio SQL Projects
 
 ### 1 | Sales Database Setup
 **Code:** [Database_Setup](https://github.com/MichaelRommm/DATA_ANALYST_PORTFOLIO/blob/fbaa946b7a9bba82bb1c47f57bbca40c7d5e4af3/SQL/Database_Setup.sql)
