@@ -14,24 +14,20 @@ As the former Co-Founder & CEO of [Finger Food](https://finger-food.co.il), I ha
 - **[Advanced_SQL](SQL/Advanced_SQL.sql):** Comprehensive analysis of sales, customers, employees, and orders in AdventureWorks2019 using advanced SQL techniques.
 
 ### Python
-- **Project 1:** Description of Project 1
-- **Project 2:** Description of Project 2
+[(readme_Python)](https://github.com/MichaelRommm/DATA_ANALYST_PORTFOLIO/blob/cf69c5f6c71a40d9c2051d36eaa6b6096341aa1b/Python/readme_Python.md)
+- **[Flight Data Analysis](https://github.com/MichaelRommm/DATA_ANALYST_PORTFOLIO/blob/cf69c5f6c71a40d9c2051d36eaa6b6096341aa1b/Python/project_folder/Flight_Data_Analysis.py):** Analyze and visualize flight data to derive insights on delays and flight patterns.
 
 ### R
-- **Project 1:** Description of Project 1
-- **Project 2:** Description of Project 2
+- **Project 1:** Description of Project 
 
 ### Excel
-- **Project 1:** Description of Project 1
-- **Project 2:** Description of Project 2
+- **Project 1:** Description of Project 
 
 ### Power BI
-- **Project 1:** Description of Project 1
-- **Project 2:** Description of Project 2
+- **Project 1:** Description of Project 
 
 ### Tableau
-- **Project 1:** Description of Project 1
-- **Project 2:** Description of Project 2
+- **Project 1:** Description of Project 
 
 ## Education and Certificates
 - [Google Data Analytics Professional Certificate (Coursera - Google)](https://coursera.org/share/c8f4a7b6bd4f79b24ffd2a20ae0e15fc)
