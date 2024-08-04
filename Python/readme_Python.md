@@ -1,7 +1,7 @@
 ## Portfolio Python Projects
 
 ### 1 | Flight Data Analysis
-**Code:** [Flight_Data_Analysis](https://github.com/MichaelRommm/DATA_ANALYST_PORTFOLIO/blob/7b716c0616509bc1298ae182d242b65826560c7c/Python/project_folder/Flight_Data_Analysis)
+**Code:** [Flight_Data_Analysis](https://github.com/MichaelRommm/DATA_ANALYST_PORTFOLIO/blob/dd6a9a0c5fd902305d859397ceea4ebac98bec59/Python/project_folder/Flight_Data_Analysis.py)
 
 **Goal:** Analyze and visualize flight data to derive insights on delays and flight patterns.
 
