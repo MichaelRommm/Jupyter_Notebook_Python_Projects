@@ -18,7 +18,8 @@ As the former Co-Founder & CEO of [Finger Food](https://finger-food.co.il), I ha
 - **[Flight Data Analysis](https://github.com/MichaelRommm/DATA_ANALYST_PORTFOLIO/blob/cf69c5f6c71a40d9c2051d36eaa6b6096341aa1b/Python/project_folder/Flight_Data_Analysis.py):** Analyze and visualize flight data to derive insights on delays and flight patterns.
 
 ### R
-- **Project 1:** Description of Project 
+[(readme_R)](https://github.com/MichaelRommm/DATA_ANALYST_PORTFOLIO/blob/5840f8a6cb72d3322c223d6285eaec91b3a3260a/R/readme_R.md)
+- **[Penguin Species Analysis](https://github.com/MichaelRommm/DATA_ANALYST_PORTFOLIO/blob/2c5e0acb17c4586e27f6b4258eede4d6a6307c80/R/Penguin_Species_Analysis.R):** Explore the Palmer Penguins dataset to visualize and compare physical traits across different penguin species.
 
 ### Excel
 - **Project 1:** Description of Project 
